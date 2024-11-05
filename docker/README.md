@@ -72,3 +72,4 @@ steps:
 - name: 'gcr.io/cloud-builders/docker'
   args: ['run', 'gcr.io/$PROJECT_ID/myimage']
 ```
+
